@@ -14,4 +14,6 @@ There are two seperate notebooks for UNet 2D and UNet3D . UNet is a popular arch
 If you want to understand UNet better the link below can be a good resource.
 UNet: https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5
 
-Thank you.
+Also, I plan to implement the VNet3d soon.
+
+Thank you for your patience
