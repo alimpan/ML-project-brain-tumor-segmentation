@@ -8,5 +8,8 @@ Link: https://drive.google.com/file/d/1gfLZlHaqTDeSKt7zDElIWJydt_eR7uay/view?usp
 
 Used architecture: UNet 2D, UNet 3D (I have two seperate notebooks for them)
 
-Though I achieved poor results using UNet 3D as I had to work only in google colab. I hope to get it corrected soon.
-Thank you for visiting my work.
+There are two seperate notebooks for UNet 2D and UNet3D . UNet is a popular architecture in the Bio-medical imaging sector. 
+If you want to understand UNet better the link below can be a good resource.
+UNet: https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5
+
+Thank you.
