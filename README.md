@@ -1,3 +1,5 @@
+![applsci-10-07790-g002](https://user-images.githubusercontent.com/39036649/132874956-f90f788f-5632-4811-bf21-fef589b65180.png)
+
 # Segmentation of Brain Tumors from 3D MRI scans:
 
 This is a semantic segmentation of brain tumors using 3D MRI scans . 
