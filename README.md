@@ -1,4 +1,4 @@
-# ML-project-brain-tumor-segmentation
+# Segmentation of Brain Tumors from 3D MRI scans:
 
 This is a semantic segmentation of brain tumors using 3D MRI scans . 
 The goal is to predict the location of the tumor and separating it from the near by healthy tissue.
